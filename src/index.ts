@@ -1,4 +1,4 @@
-//TODO:  a research needed to understand the side effect of ignoring `React` namespace.
+//TODO: a research needed to understand the side effect of ignoring `React` namespace.
 import * as R from "react";
 import { injectState, updateCache } from "./cache";
 import {
